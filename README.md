@@ -3,5 +3,11 @@
 xxx = 111 <br> <br>
 => build.gradle <br>
 println xxx <br>
-## 可以在build.gradle里面定义
+
+## 绑定view的ButterKnife可以了解一下
+https://www.jianshu.com/p/3678aafdabc7 <br>
+
+## 相机调用view可以了解一下CameraView
+https://www.jianshu.com/p/c0a2afb82f73 <br>
+
 
