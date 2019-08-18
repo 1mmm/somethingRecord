@@ -10,4 +10,5 @@ https://www.jianshu.com/p/3678aafdabc7 <br>
 ## 相机调用view可以了解一下CameraView
 https://www.jianshu.com/p/c0a2afb82f73 <br>
 
+## 打aar包的时候切记在资源文件上取相同名字，会被覆盖
 
