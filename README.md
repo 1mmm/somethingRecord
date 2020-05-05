@@ -19,3 +19,6 @@ https://www.jianshu.com/p/c0a2afb82f73 <br>
 https://www.cnblogs.com/blog-Aevin/p/9302678.html <br>
 
 ## Intent传递数据后，该数据会保存在本地，下次如果打开的activity界面是该intent extra存在的界面，则会得到上次传递的数据而不是为空
+
+## 有些远端服务器会进行301 302重定向
+概念https://www.cnblogs.com/tongongV/p/10944414.html
